@@ -1,0 +1,7 @@
+F:\Class\Sem2\Software quality assurance\As2ConsoleApp\bin\Debug\As2ConsoleApp.exe.config
+F:\Class\Sem2\Software quality assurance\As2ConsoleApp\bin\Debug\As2ConsoleApp.exe
+F:\Class\Sem2\Software quality assurance\As2ConsoleApp\bin\Debug\As2ConsoleApp.pdb
+F:\Class\Sem2\Software quality assurance\As2ConsoleApp\obj\Debug\As2ConsoleApp.csproj.AssemblyReference.cache
+F:\Class\Sem2\Software quality assurance\As2ConsoleApp\obj\Debug\As2ConsoleApp.csproj.CoreCompileInputs.cache
+F:\Class\Sem2\Software quality assurance\As2ConsoleApp\obj\Debug\As2ConsoleApp.exe
+F:\Class\Sem2\Software quality assurance\As2ConsoleApp\obj\Debug\As2ConsoleApp.pdb
